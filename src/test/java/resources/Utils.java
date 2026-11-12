@@ -50,5 +50,10 @@ public class Utils {
 		JsonPath js = new JsonPath(resp);
 		return js.get(key).toString();
 	}
+	
+	public void printName()
+	{
+		System.out.println("My Name is Dilip");
+	}
 
 }
