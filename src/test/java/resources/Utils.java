@@ -59,5 +59,10 @@ public class Utils {
 	{
 		System.out.println("Here is the Automation Report");
 	}
+	
+	public void addedNewBrnach()
+	{
+		System.out.println("Added new Branch for git");
+	}
 
 }
