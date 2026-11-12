@@ -55,5 +55,9 @@ public class Utils {
 	{
 		System.out.println("My Name is Dilip");
 	}
+	public void printReport()
+	{
+		System.out.println("Here is the Automation Report");
+	}
 
 }
